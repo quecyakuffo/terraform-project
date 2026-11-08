@@ -3,3 +3,6 @@
 *.tfstate.*
 crash.log
 *.tfvars
+
+# SSH private keys
+dovekey
